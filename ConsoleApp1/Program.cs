@@ -10,7 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Olá Mundo!!!");
+            Console.WriteLine("Bem vindo ao mundo do Git");
+            Console.ReadLine();
         }
     }
 }
